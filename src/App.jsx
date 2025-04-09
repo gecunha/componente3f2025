@@ -7,8 +7,8 @@ const App = ()=> {
   return (
     <>
    <h3>Aula Retomada Componentes</h3>
-   <Etiqueta texto="Texto enviado pelo App" />
-   <Etiqueta texto="Corinthians meu amor" />
+   <Etiqueta texto="Vivi lindona" />
+   <Etiqueta texto="Te amoo" />
    <Etiqueta/>
    <Caixa/>
    <Botao/>
